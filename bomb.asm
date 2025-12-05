@@ -401,6 +401,7 @@ Disassembly of section .text:
     1585:	48 63 04 82          	movslq (%rdx,%rax,4),%rax
     1589:	48 01 d0             	add    %rdx,%rax
     158c:	ff e0                	jmp    *%rax
+    
     158e:	e8 25 09 00 00       	call   1eb8 <explode_bomb>
     1593:	eb dc                	jmp    1571 <phase_3+0x2d>
     1595:	8b 15 75 4b 00 00    	mov    0x4b75(%rip),%edx        # 6110 <delta.1>
