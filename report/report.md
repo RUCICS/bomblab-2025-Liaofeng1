@@ -11,7 +11,7 @@
 
 scoreboard 截图：
 
-![res](/home/liaofeng/bomblab-2025-Liaofeng1-2/report/res.png)
+![res](C:\Users\liaofeng\Desktop\res.png)
 
 <!-- TODO: 用一个scoreboard的截图，本地图片，放到 imgs 文件夹下，不要用这个 github，pandoc 解析可能有问题 -->
 
@@ -242,8 +242,6 @@ Phase 5 是一个基于 查表求和 的算法谜题。
 ```
 
 讲解题目思路
-
-这份 **Phase 6 逆向分析报告** 详细阐述了如何识别链表结构、提取节点数据以及推导最终排序结果的全过程。你可以直接参考此结构来撰写你的实验报告。
 
 
 要求输入 6 个整数。这 6 个整数充当了链表节点的索引.重新连接链表中的节点，最后验证重组后的链表节点数值是否按照 降序排列。
